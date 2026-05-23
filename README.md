@@ -58,7 +58,7 @@ El preprocesamiento es el 80% de la precision del OCR:
 ## ⑥ Variables de entorno
 
 ```
-ANTHROPIC_API_KEY=sk-ant-...
+ANTHROPIC_API_KEY=your-anthropic-api-key
 TESSERACT_CMD=tesseract
 CONFIDENCE_THRESHOLD=70
 ```
